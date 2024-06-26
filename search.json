@@ -7,11 +7,18 @@
     "text": "Table of contents\n\nLearning Access Security Broker"
   },
   {
-    "objectID": "themes.html",
-    "href": "themes.html",
-    "title": "Themes",
+    "objectID": "use-cases.html",
+    "href": "use-cases.html",
+    "title": "Use Cases",
     "section": "",
-    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-access-security-broker-themes/"
+    "text": "About Use Cases\nSee https://vanheemstrasystems.github.io/learning-access-security-broker-use-cases/"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning - Access Security Broker",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "initiative.html",
@@ -21,11 +28,11 @@
     "text": "About Initiative\nSee https://vanheemstrasystems.github.io/learning-access-security-broker-initiative/"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning - Access Security Broker",
+    "objectID": "themes.html",
+    "href": "themes.html",
+    "title": "Themes",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About Themes\nSee https://vanheemstrasystems.github.io/learning-access-security-broker-themes/"
   },
   {
     "objectID": "about.html",
